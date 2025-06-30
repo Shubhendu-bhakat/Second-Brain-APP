@@ -9,9 +9,11 @@
   "author": "Shubhnedu",
   "license": "ISC",
   "dependencies": {
+    "@types/bcryptjs": "^3.0.0",
     "@types/dotenv": "^8.2.3",
     "@types/express": "^5.0.3",
     "@types/jsonwebtoken": "^9.0.10",
+    "bcryptjs": "^3.0.2",
     "dotenv": "^17.0.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
